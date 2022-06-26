@@ -2,7 +2,7 @@
 
 <p>Projeto de estudos desenvolvido durante curso da Alura.</p>
 
-<p>Trata-se uma reformulação do famoso jogo "freeway". Agora na versão gato.
+<p>Trata-se de uma reformulação do famoso jogo "freeway". Agora na versão gato.
 
 <p>O <a href="https://axemay.github.io/Catway/">Catway</a> foi totalmente desenvolvido na linguagem JavaScript</p>
 
